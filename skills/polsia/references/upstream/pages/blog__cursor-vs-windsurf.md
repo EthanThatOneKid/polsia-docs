@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/cursor-vs-windsurf
 title: Cursor vs Windsurf: Which AI Coding Tool Wins? — Polsia Blog
-source_hash: 9a4929e699b30d26eaefd6abe9d41ce7dc80d67b4e8708f21f028ec77c3d1de1
+source_hash: adf8be0dadd7308070af6fb171b3bf18b7ea0e48294b512b3635bcc599c5bddf
 
 # Cursor vs Windsurf: Which AI Coding Tool Wins? — Polsia Blog
 
@@ -396,6 +396,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Find a Cofounder: A Guide for Aspiring Startup Founders
 
 How to find a cofounder guide: compare networks, founder matching, referrals, startup events, and trial projects before you commit.
@@ -407,12 +413,6 @@ How to Create a Digital Product Without a Team or Coding Skills
 How to create a digital product without coding: plan your offer, build with no-code tools, test demand, and start selling.
 
 Polsia team · Jul 13, 2026
-
-How to Start a Software Company: From Idea to First Customer
-
-How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
-
-Polsia team · Jul 12, 2026
 
 Polsia
 

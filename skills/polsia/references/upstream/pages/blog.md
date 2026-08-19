@@ -1,6 +1,6 @@
 source: https://polsia.com/blog
 title: Polsia Blog
-source_hash: 1f10bfe768b593d41b23d8d12ed7a55d308dbc1013c7642728c2edb699fa4c18
+source_hash: 2f82ac5ccee205e8e4a88e78e1a6ef51320e22e3206d90a80ab269a0498e8bbc
 
 # Polsia Blog
 
@@ -52,6 +52,12 @@ It's called God Mode.
 
 Polsia team · Apr 4, 2026
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Find a Cofounder: A Guide for Aspiring Startup Founders
 
 How to find a cofounder guide: compare networks, founder matching, referrals, startup events, and trial projects before you commit.
@@ -85,12 +91,6 @@ Polsia team · Jul 3, 2026
 How to Start a SaaS Business Without a Technical Team
 
 Polsia team · Jul 2, 2026
-
-How to Validate a Startup Idea Before You Build Anything
-
-Learn how to validate a startup idea before wasting months building. Polsia shows you the exact steps to test fast.
-
-Polsia team · Jul 1, 2026
 
 Page 1 of 4
 

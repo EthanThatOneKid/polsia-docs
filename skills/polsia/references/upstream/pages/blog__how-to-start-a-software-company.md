@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-start-a-software-company
 title: How to Start a Software Company: From Idea to First Customer — Polsia Blog
-source_hash: da0733972eb7d36c63da4396b131f43f0eab9176f91a7f0c6aa4d1df006d8af8
+source_hash: 1da8bd94be055ac3b9870491ae572d50a08b23ae4689347089c4b127d06246f6
 
 # How to Start a Software Company: From Idea to First Customer — Polsia Blog
 
@@ -412,6 +412,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Find a Cofounder: A Guide for Aspiring Startup Founders
 
 How to find a cofounder guide: compare networks, founder matching, referrals, startup events, and trial projects before you commit.
@@ -423,12 +429,6 @@ How to Create a Digital Product Without a Team or Coding Skills
 How to create a digital product without coding: plan your offer, build with no-code tools, test demand, and start selling.
 
 Polsia team · Jul 13, 2026
-
-How to Automate My Business: Step-by-Step Guide for Solopreneurs
-
-How to automate my business as a solopreneur? Learn what to automate first, which tools to use, and how to test each workflow.
-
-Polsia team · Jul 11, 2026
 
 Polsia
 

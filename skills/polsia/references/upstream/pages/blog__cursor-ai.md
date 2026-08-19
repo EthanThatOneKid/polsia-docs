@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/cursor-ai
 title: What is Cursor AI? What Developers & Founders Need to Know — Polsia Blog
-source_hash: 80ce2dd2d00ae0b46dea1cae2c9ae27be2a2b4e3608501ad00f8eb56ca7801aa
+source_hash: e27c5d5d09e5d9fd86f569544cfac354560f6b4e1add3d566b1f76d9cd0a2df9
 
 # What is Cursor AI? What Developers & Founders Need to Know — Polsia Blog
 
@@ -302,6 +302,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Find a Cofounder: A Guide for Aspiring Startup Founders
 
 How to find a cofounder guide: compare networks, founder matching, referrals, startup events, and trial projects before you commit.
@@ -313,12 +319,6 @@ How to Create a Digital Product Without a Team or Coding Skills
 How to create a digital product without coding: plan your offer, build with no-code tools, test demand, and start selling.
 
 Polsia team · Jul 13, 2026
-
-How to Start a Software Company: From Idea to First Customer
-
-How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
-
-Polsia team · Jul 12, 2026
 
 Polsia
 

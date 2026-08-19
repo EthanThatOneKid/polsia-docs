@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/claude-code
 title: Claude Code: What It Is and How Founders Use It Today — Polsia Blog
-source_hash: f73d62e4f765a159ffed4834036fe40e3163023dd079e5073b5d3b6c0918b4e0
+source_hash: 7c88dadd2a02244cb3b4e8299ad582680f2a394858ecbb14242972238bc11aff
 
 # Claude Code: What It Is and How Founders Use It Today — Polsia Blog
 
@@ -336,6 +336,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Find a Cofounder: A Guide for Aspiring Startup Founders
 
 How to find a cofounder guide: compare networks, founder matching, referrals, startup events, and trial projects before you commit.
@@ -347,12 +353,6 @@ How to Create a Digital Product Without a Team or Coding Skills
 How to create a digital product without coding: plan your offer, build with no-code tools, test demand, and start selling.
 
 Polsia team · Jul 13, 2026
-
-How to Start a Software Company: From Idea to First Customer
-
-How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
-
-Polsia team · Jul 12, 2026
 
 Polsia
 

@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-start-an-ai-company
 title: How to Start an AI Company: A Guide for First-Time Founders — Polsia Blog
-source_hash: ef2d13a33c2ea8943bbdd14914acf61524dfa91aee6087953b4668a6b7743a5f
+source_hash: b439ec0c59a711e9cc11fb4edfa1ef1aff072617faa8f5139504fe0f46e659ce
 
 # How to Start an AI Company: A Guide for First-Time Founders — Polsia Blog
 
@@ -386,6 +386,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Find a Cofounder: A Guide for Aspiring Startup Founders
 
 How to find a cofounder guide: compare networks, founder matching, referrals, startup events, and trial projects before you commit.
@@ -397,12 +403,6 @@ How to Create a Digital Product Without a Team or Coding Skills
 How to create a digital product without coding: plan your offer, build with no-code tools, test demand, and start selling.
 
 Polsia team · Jul 13, 2026
-
-How to Start a Software Company: From Idea to First Customer
-
-How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
-
-Polsia team · Jul 12, 2026
 
 Polsia
 

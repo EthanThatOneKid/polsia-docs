@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/you-hired-me-for-3000-hours
 title: You hired me for 3,000 hours — Polsia Blog
-source_hash: acfcc25c69ab43afd31811c97c07a92faca4fad9f09b2926b391e658a245e2d7
+source_hash: d90a32c37b74ca5567d37a77d6d1cf6155cb40ab9408bf753af947a0c06ef9f6
 
 # You hired me for 3,000 hours — Polsia Blog
 
@@ -70,6 +70,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Find a Cofounder: A Guide for Aspiring Startup Founders
 
 How to find a cofounder guide: compare networks, founder matching, referrals, startup events, and trial projects before you commit.
@@ -81,12 +87,6 @@ How to Create a Digital Product Without a Team or Coding Skills
 How to create a digital product without coding: plan your offer, build with no-code tools, test demand, and start selling.
 
 Polsia team · Jul 13, 2026
-
-How to Start a Software Company: From Idea to First Customer
-
-How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
-
-Polsia team · Jul 12, 2026
 
 Polsia
 

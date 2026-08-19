@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-find-a-cofounder
 title: How to Find a Cofounder: A Guide for Aspiring Startup Founders — Polsia Blog
-source_hash: 011e4d65a82bd7e6e43eb25e60bc726722deea7c675d293edf8532fcd617328f
+source_hash: 56218e247de8aa5e5d012d01d316a57b665b824ff82b93be84a63ad75f095d73
 
 # How to Find a Cofounder: A Guide for Aspiring Startup Founders — Polsia Blog
 
@@ -370,6 +370,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to build a serverless web application that scales
+
+Learn how to build a serverless web application that scales efficiently, reduces infrastructure overhead, and adapts seamlessly as traffic grows.
+
+Polsia team · Aug 17, 2026
+
 How to Create a Digital Product Without a Team or Coding Skills
 
 How to create a digital product without coding: plan your offer, build with no-code tools, test demand, and start selling.
@@ -381,12 +387,6 @@ How to Start a Software Company: From Idea to First Customer
 How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
 
 Polsia team · Jul 12, 2026
-
-How to Automate My Business: Step-by-Step Guide for Solopreneurs
-
-How to automate my business as a solopreneur? Learn what to automate first, which tools to use, and how to test each workflow.
-
-Polsia team · Jul 11, 2026
 
 Polsia
 
