@@ -1,6 +1,6 @@
 source: https://polsia.com/
 title: Polsia — AI That Runs Your Company While You Sleep
-source_hash: 273b71f308d8e2514eabd58bf91c6a536bccdf8884637202860979e1e7903e38
+source_hash: 621dd460622150a904a8a63ae7fcd1b7c65752a782b700f37fd86fb7cbdf244c
 
 # Polsia — AI That Runs Your Company While You Sleep
 
